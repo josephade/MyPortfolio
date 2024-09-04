@@ -21,26 +21,26 @@ import {
   export const projectStats = [
     {
       name: "Total Projects",
-      value: "200+",
+      value: "50+",
     },
     {
       name: "Website Design",
-      value: "150+",
+      value: "15",
     },
     {
-      name: "Mobile App Design",
-      value: "50",
+      name: "Web Applications",
+      value: "31",
     },
     {
-      name: "Clients worldwide",
-      value: "+86",
+      name: "Machine Learning Models",
+      value: "3",
     },
   ];
   
   export const tools = [
     {
-      name: "MongoDB",
-      icon: Mongodb,
+      name: "Python",
+      icon: Python,
     },
     {
       name: "Express",

@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
+import Projects from "./components/Projects";
 
 function App() {
   const [darkMode, setDarkMode] = useState(true)
@@ -35,6 +36,13 @@ function App() {
             <Header />
           </section>
         </div>
+
+        <section 
+            className="className='w-full bg-[#061130] py-20"
+          >
+            <Projects />
+          </section>
+
       </div>
     </div>
   );
