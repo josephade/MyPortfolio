@@ -41,7 +41,7 @@ const About = () => {
             <MdOutlineAlternateEmail size={14} /> josephade1030@gamil.com
           </p>
           <a
-            href='https://wa.me/+11 234 567 897'
+            href='https://wa.me/+353899482942'
             className='flex gap-3 items-center justify-center rounded-full shadow-lg py-2 px-4 bg-[#030a1c] text-white cursor-pointer'
           >
             <BsWhatsapp size={14} /> +353 89 948 2942
